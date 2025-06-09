@@ -35,7 +35,7 @@ users
 
 ---
 
-## 2 · Recommended folder structure
+## 2 · the folder structure
 
 ```
 /project-root
